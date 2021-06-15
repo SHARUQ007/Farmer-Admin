@@ -4,8 +4,7 @@
 
 ```bash
 
-copy .env.example to .env
-update MONGO_DB_NAME and JWT_SECRET  on .env file
+copy  .env
 
 # Install dependencies for server
 npm install
