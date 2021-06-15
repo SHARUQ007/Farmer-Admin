@@ -18,7 +18,7 @@
 
 ## Quick Start
 
-#### 1. Copy .env.example to .env
+#### 1. Copy .env
 
 #### 2. Run `yarn install`
 
