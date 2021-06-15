@@ -19,7 +19,7 @@ npm run dev
 
 ``` bash
 
-copy .env.example to .env
+copy  .env
 
 yarn install
 
@@ -45,8 +45,6 @@ yarn build
     2. Using [mui-datatables](https://github.com/gregnb/mui-datatables)
 
 
-#### Screenshoot
-![](https://i.ibb.co/HYkML8V/crud1.png)
 
 Info
 ------------
